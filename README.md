@@ -22,6 +22,14 @@ oxide for [Zed](https://zed.dev/), a high-performance, multiplayer code editor.
 
 ## Installation
 
+### Via Zed Extensions (Recommended)
+
+Install from the [Zed extension store](https://zed.dev/extensions/oxide-theme):
+
+1. Open Zed's Extensions with `cmd-shift-x` (macOS) or `ctrl-shift-x` (Linux/Windows).
+2. Search for `Oxide` and click **Install**.
+3. Run `theme selector: toggle` from the command palette and select `Oxide`.
+
 ### Development Install
 
 1. Clone this repository.
